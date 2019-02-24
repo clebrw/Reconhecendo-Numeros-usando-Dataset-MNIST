@@ -5,15 +5,9 @@
 - Neste documento será apresentado uma Rede Neural simples que irá prever um número em uma imagem usando o dataset MNIST.
 
 
-------------------
-
-
 ## Instruções
 
 - O tutorial completo está no arquivo Jupyter Notebook (.ipynb) acima, para visualizá-lo faça o upload para o [Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). Assim voce pode rodá-lo através do Navegador.
-
-
-------------------
 
 
 ## Pré-requisitos: Para rodar no seu computador
@@ -27,6 +21,3 @@ sudo pip3 install tensorflow
 sudo pip3 install keras
 sudo pip3 install opencv-python
 ```
-
-
-------------------
